@@ -20,4 +20,5 @@ pip install selenium
 ## Running:
 ```bash
 cd /directory
-python yandex_lite_updated_proj.py```
+python yandex_lite_updated_proj.py
+```

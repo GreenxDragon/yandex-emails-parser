@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 import csv
 
-
+#
 class YandexLiteBot:
     def __init__(self, login, password, opt):
         self.main_url = None
